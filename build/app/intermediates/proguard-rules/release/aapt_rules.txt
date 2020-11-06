@@ -1,0 +1,8 @@
+# Referenced at C:\Users\Akkip\Documents\Hacka\Fitness-App-v2\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:24
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\Akkip\Documents\Hacka\Fitness-App-v2\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:33
+-keep class androx.fitness_app_megahack.MainActivity { <init>(); }
+# Referenced at C:\Users\Akkip\Documents\Hacka\Fitness-App-v2\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:58
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\Akkip\Documents\Hacka\Fitness-App-v2\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:24
+-keep class io.flutter.app.FlutterApplication { <init>(); }
